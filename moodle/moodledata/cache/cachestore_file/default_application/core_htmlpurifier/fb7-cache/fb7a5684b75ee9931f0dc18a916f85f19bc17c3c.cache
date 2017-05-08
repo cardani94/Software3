@@ -1,0 +1,9 @@
+s:714:"<p>Este ajuste, junto con el tipo de archivo, y siempre que el navegador permita incrustar código, determina cómo se muestra el archivo.
+Las opciones pueden incluir:</p>
+
+<ul><li>Automático - Se selecciona de forma automática la mejor opción para visualizar el archivo</li>
+<li>Incrustar - el fichero se muestra dentro de la página debajo de la barra de navegación junto con la descripción y cualquier otro bloque</li>
+<li>Forzar descarga - Se le pregunta al usuario si desea descargar el fichero</li>
+<li>Abrir - Sólo se muestra la dirección en la ventana del navegador</li>
+<li>En ventana emergente - La URL se muestra en una ventana nueva del navegador sin menús y sin barra de direcciones</li>
+</ul>";

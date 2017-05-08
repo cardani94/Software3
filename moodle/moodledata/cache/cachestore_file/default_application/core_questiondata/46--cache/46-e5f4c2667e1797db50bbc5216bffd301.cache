@@ -1,0 +1,27 @@
+O:8:"stdClass":22:{s:2:"id";s:2:"46";s:8:"category";s:2:"15";s:6:"parent";s:1:"0";s:4:"name";s:20:"Free Time Activities";s:12:"questiontext";s:1468:"<p></p><p></p><p><span lang="ES-CO">Lee las actividades, &nbsp;luego escribe cuál es tu actividad favorita y &nbsp;completa las oraciones con tu información
+real.</span></p><p></p><ul type="disc"><li><span lang="ES-CO">go camping</span></li>
+ <li><span lang="ES-CO">go fishing</span></li>
+ <li><span lang="ES-CO">go for a bike ride</span></li>
+ <li><span lang="ES-CO">go for a walk</span></li>
+ <li><span lang="ES-CO">go out for a drink</span></li>
+ <li><span lang="ES-CO">go out for dinner</span></li>
+ <li><span lang="ES-CO">go shopping</span></li>
+ <li><span lang="ES-CO">go to a concert</span></li>
+ <li><span lang="ES-CO">go to a party</span></li>
+ <li><span lang="ES-CO">go to the beach</span></li>
+ <li><span lang="ES-CO">go to the cinema</span></li>
+ <li><span lang="ES-CO">go to the park</span></li>
+ <li><span lang="ES-CO">listen to music</span></li>
+ <li><span lang="ES-CO">play computer games</span></li>
+ <li><span lang="ES-CO">play sport</span></li>
+ <li><span lang="ES-CO">read</span></li>
+ <li><span lang="ES-CO">surf the Internet</span></li>
+ <li><span lang="ES-CO">visit a museum</span></li>
+ <li><span lang="ES-CO">visit an art gallery</span></li>
+ <li><span lang="ES-CO">visit friends</span></li>
+ <li><span lang="ES-CO">watch a movie</span></li>
+ <li><span lang="ES-CO">watch a sporting match</span></li>
+ <li><span lang="ES-CO">watch sport on TV</span></li>
+ <li><span lang="ES-CO">watch TV</span></li>
+</ul><br><p></p>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:2;s:7:"penalty";d:0;s:5:"qtype";s:5:"essay";s:6:"length";s:1:"1";s:5:"stamp";s:33:"casdschool.ml+170508003830+MEKSMh";s:7:"version";s:33:"casdschool.ml+170508004237+BZj4vR";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1494203910";s:12:"timemodified";s:10:"1494204157";s:9:"createdby";s:2:"57";s:10:"modifiedby";s:2:"57";s:9:"contextid";s:2:"24";s:7:"options";O:8:"stdClass":12:{s:2:"id";s:1:"2";s:10:"questionid";s:2:"46";s:14:"responseformat";s:6:"editor";s:16:"responserequired";s:1:"1";s:18:"responsefieldlines";s:1:"5";s:11:"attachments";s:1:"0";s:19:"attachmentsrequired";s:1:"0";s:10:"graderinfo";s:93:"<p><p><span lang="ES-CO">completa las oraciones con tu información
+real.</span></p><br></p>";s:16:"graderinfoformat";s:1:"1";s:16:"responsetemplate";s:0:"";s:22:"responsetemplateformat";s:1:"1";s:7:"answers";a:0:{}}s:5:"hints";a:0:{}}

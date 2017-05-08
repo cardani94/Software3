@@ -1,0 +1,4 @@
+s:667:"<p>Determina cómo se configura la reapertura de intentos de entrega de la tarea a los estudiantes. Las opciones disponibles son las siguientes:</p>
+
+<ul><li> Nunca - No se permite el reenvío </li> <li> Manual - El profesor puede permitir manualmente el reenvío </li> <li> Automática hasta aprobar - el envío del estudiante se vuelve a abrir automáticamente hasta que alcance la calificación para aprobar. Este valor se establece en el libro de calificaciones accediendo a la pestaña "Categorías e ítems" dentro de la opción  "Calificación para aprobar" de esta tarea. </li> </ul><p>Asimismo, puede establecerse un máximo de intentos para esta tarea.</p>
+";

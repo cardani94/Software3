@@ -1,0 +1,10 @@
+s:664:"<p>Cuando alguien se subscribe a un foro recibirá por correo electrónico una copia de cada mensaje enviado a ese foro.</p>
+
+<p>Hay 4 modos de suscripción:</p>
+
+<ul><li>Opcional - Los participantes pueden elegir si desean ser suscritos.</li>
+<li>Forzosa - Todos están suscritos y no puede darse de baja.</li>
+<li>Automática - Todos están suscritos inicialmente pero cada usuario puede desactivar la suscripción en cualquier momento.</li>
+<li>Desactivada - No se permiten suscripciones.</li>
+</ul><p>Nota: Cualquier cambio en el modo de suscripción sólo afectará a los usuarios que se registren en el curso en el futuro y no a los usuarios existentes.</p>
+";

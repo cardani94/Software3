@@ -1,0 +1,9 @@
+s:841:"<p>El tipo de consolidación define cómo se combinan las puntuaciones para formar la nota final en el libro de calificaciones.</p>
+
+<ul><li>Promedio de calificaciones- La media de todas las calificaciones</li>
+<li>Número de calificaciones - El número de elementos calificados se convierte en la nota final. Tenga en cuenta que el total no puede exceder la nota máxima de la actividad</li>
+<li>Máxima calificación - La calificación más alta se convierte en la nota final</li>
+<li>Mínima calificación - La calificación más baja se convierte en la nota final</li>
+<li>Suma de calificaciones- Todas las calificaciones se suman. Tenga en cuenta que el total no puede exceder la nota máxima de la actividad.</li>
+</ul><p>Si "No hay valoraciones" está seleccionado, entonces la actividad no aparece en el libro de calificaciones.</p>
+";

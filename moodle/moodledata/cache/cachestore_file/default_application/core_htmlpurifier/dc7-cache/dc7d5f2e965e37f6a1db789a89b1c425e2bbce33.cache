@@ -1,0 +1,14 @@
+s:2531:"<p>El propósito principal de una "configuración de herramientas" es establecer un canal de comunicación seguro entre Moodle y el proveedor de la herramienta También proporciona una oportunidad para establecer configuraciones por defecto e instalar servicios adicionales proporcionados por la herramienta.</p>
+
+<ul><li><p><strong>Automático, basada en Launch URL</strong> - Esta configuración debería ser empleada en la mayoría de los casos. Moodle elegirá la configuración de la utilidad más apropiada      basada en Launch URL. Se usarán herramientas configurada tanto por el administrador como desde el propio curso.
+Cuando se especifica Launch URL, Moodle dará información sobre si la reconoce o no. Si Moodle no reconociera Launch URL, entonces deberíaponer los detalles de configuración de la herramienta manualmente.</p></li>
+<li><p><strong>Un tipo específico de herramienta</strong> - Al seleccionar un tipo específico de herramienta, usted puede forzar a Moodle a que emplee esa configuración de herramienta cuando se comunique con el proveedor de la herramienta externa. Si pareciera que la Launch URL no pertenece al proveedor de la herramienta, aparecerá una advertencia. En algunos casos no es necesario proporcionar un Launch URL al emplear un tipo de herramienta específico (si no está invocando un recurso particular dentro del proveedor de la herramienta).</p></li>
+<li><p><strong>Configuración a la medida</strong> - Para ajustar la configuración a la medida solamente en esta instancia, mostrar Opciones Avanzadas, y proporcione usted mismo la clave privada y la clave pública. Si no tiene clave privada y clave pública, puede solicitarlas al proveedor de la herramienta. No todas las herramientas requieren una clave privada y una clave pública; en estos casos los campos pueden dejarse en blanco.</p></li>
+</ul><h3>Edición del Tipo de Herramienta.</h3>
+
+<p>Existen tres íconos disponibles en la lista desplegable de Herramienta:</p>
+
+<ul><li><p><strong>Añadir</strong> - Crea una configuración de herramienta a nivel de curso. Todas las instancias de la herramienta externa en este curso pueden emplear esta configuración de herramienta.</p></li>
+<li><p><strong>Editar</strong> - Selecciona un tipo de herramienta a nivel de curso a partir de una lista desplegable y eligiendo después este ícono. Los detalles de la configuración de la herramienta pueden editarse.</p></li>
+<li><p><strong>Borrar</strong> - Elimina el tipo de herramienta del curso seleccionado.</p></li>
+</ul>";
