@@ -1,0 +1,44 @@
+4:35:57 p. m.  [main] 	Initializing Control Panel
+4:35:57 p. m.  [main] 	Windows Version:  Pro  64-bit
+4:35:57 p. m.  [main] 	XAMPP Version: 7.0.9
+4:35:57 p. m.  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+4:35:57 p. m.  [main] 	You are not running with administrator rights! This will work for
+4:35:57 p. m.  [main] 	most application stuff but whenever you do something with services
+4:35:57 p. m.  [main] 	there will be a security dialogue or things will break! So think 
+4:35:57 p. m.  [main] 	about running this application with administrator rights!
+4:35:57 p. m.  [main] 	XAMPP Installation Directory: "d:\pruebas\server\"
+4:35:57 p. m.  [main] 	Checking for prerequisites
+4:36:06 p. m.  [main] 	All prerequisites found
+4:36:06 p. m.  [main] 	Initializing Modules
+4:36:06 p. m.  [Apache] 	XAMPP Apache is already running on port 80
+4:36:06 p. m.  [Apache] 	XAMPP Apache is already running on port 443
+4:36:06 p. m.  [mysql] 	XAMPP MySQL is already running on port 3306
+4:36:06 p. m.  [main] 	The FileZilla module is disabled
+4:36:06 p. m.  [main] 	The Mercury module is disabled
+4:36:06 p. m.  [Tomcat] 	Problem detected: Tomcat Not Found!
+4:36:06 p. m.  [Tomcat] 	Disabling Tomcat buttons
+4:36:06 p. m.  [Tomcat] 	Run this program from your XAMPP root directory!
+4:36:06 p. m.  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+4:36:06 p. m.  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+4:36:06 p. m.  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+4:36:06 p. m.  [main] 	Starting Check-Timer
+4:36:06 p. m.  [main] 	Control Panel Ready
+4:36:19 p. m.  [Apache] 	Status change detected: stopped
+4:36:19 p. m.  [Apache] 	Error: Apache shutdown unexpectedly.
+4:36:19 p. m.  [Apache] 	This may be due to a blocked port, missing dependencies, 
+4:36:19 p. m.  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+4:36:19 p. m.  [Apache] 	Press the Logs button to view error logs and check
+4:36:19 p. m.  [Apache] 	the Windows Event Viewer for more clues
+4:36:19 p. m.  [Apache] 	If you need more help, copy and post this
+4:36:19 p. m.  [Apache] 	entire log window on the forums
+4:51:48 p. m.  [mysql] 	Status change detected: stopped
+4:51:48 p. m.  [mysql] 	Error: MySQL shutdown unexpectedly.
+4:51:48 p. m.  [mysql] 	This may be due to a blocked port, missing dependencies, 
+4:51:48 p. m.  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+4:51:48 p. m.  [mysql] 	Press the Logs button to view error logs and check
+4:51:48 p. m.  [mysql] 	the Windows Event Viewer for more clues
+4:51:48 p. m.  [mysql] 	If you need more help, copy and post this
+4:51:48 p. m.  [mysql] 	entire log window on the forums
+4:52:09 p. m.  [main] 	Deinitializing Modules
+4:52:09 p. m.  [main] 	Deinitializing Control Panel
+
