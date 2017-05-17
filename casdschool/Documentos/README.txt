@@ -1,0 +1,1 @@
+Documentos realizados para el debido proceso de creación del proyecto
